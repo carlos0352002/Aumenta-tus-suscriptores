@@ -1,0 +1,280 @@
+* {
+    box-sizing: border-box ;
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background: url("img/fondo_white.jpg");
+    height: 20%;
+}
+
+/* NAVEGACION */
+
+.nav-nav {
+    display: flex;
+    
+    
+}
+
+.nav-nav a {
+    color: black;
+    text-decoration: none;
+    
+}
+
+.nav-nav li {
+    list-style: none;
+}
+.nav-nav ul li {
+    padding-inline: 70px;
+    padding-top: 40px;
+}
+
+.nav-nav a img {
+    width: 70px;
+    
+
+}
+
+.nav-nav li a:hover {
+    border-bottom: 3px solid black;
+    
+}
+
+.icon-nav img:hover {
+border-bottom: 3px solid black;
+}
+
+.img-nav {
+    width: 7rem;
+}
+
+/* NEW */
+
+.div-new {
+    
+    background: url("img/subir.jpg");
+    padding: 100px;
+}
+
+.div-noti{
+    padding-top: 40px;
+    width: 95%;
+    padding-left: 40px;
+}
+ 
+.div-new h1 {
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.div-new p {
+    padding-bottom: 20px;
+}
+
+.div-new a {
+    color: black;
+    border: 2px solid black;
+    
+
+}
+  
+
+
+
+.btn {
+    border: 2px solid black;
+    text-decoration: none;
+    padding: 10px;
+    background-color: cadetblue;
+    
+}
+
+
+.btn:hover {
+    opacity: .5;
+}
+
+.btn1 {
+    padding-left: 270px;
+    padding-top: 20px;
+}
+
+.seccion-div {
+   display: flex;
+   margin: 20px;
+   padding-top: 70px;
+}
+
+.seccion-div img {
+    padding-left: 30px;
+}
+
+
+/* FOLLOW */
+
+.follow-text h1 {
+padding-left: 360px;
+padding-top: 60px;
+padding-bottom: 40px;
+}
+
+.follow-text a img {
+    padding-left: 190px;
+    
+}
+
+.follow-text img {
+    
+    height: 4rem;
+}
+
+/* header */
+
+.header-hey h3 {
+    color: white;
+    padding-left: 320px;
+}
+
+.header-hey p {
+    color: white;
+    padding-left: 360px;
+}
+
+.header-hey {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.header1 {
+    padding-top: 40px;
+}
+
+.follow-flex {
+    display: flex;
+    margin: 10px;
+}
+
+.follow-flex p {
+    padding-left: 180px;
+}
+
+
+
+.header1 {
+    padding-top: 90px;
+}
+
+
+
+
+.follow-text a:hover {
+    opacity: .5;
+}
+
+
+
+/* help */
+
+.help h1 {
+padding-left: 390px;
+padding-bottom: 30px;
+}
+
+.help p {
+    padding-left: 30px;
+
+}
+
+.help {
+    padding-top: 60px;
+}
+
+.help img {
+    height: 250px;
+    padding-left: 370px;
+    padding-top: 70px;
+}
+
+.seccion-grid .grid3 {
+width: 290px;
+
+}
+
+.seccion-grid .grid2 {
+    width: 150px;
+    
+}
+
+
+.seccion-grid .grid1 {
+    width: 150px;
+}
+
+.youtube-lol {
+    padding-left: 200px;
+    padding-top: 60px;
+}
+
+.telefono {
+    padding-top: 110px;
+    padding-left: 390px;
+}
+
+.seccion-grid img .grid3 {
+    padding-top: 90px;
+}
+
+.grid-p {
+    padding-top: 10px;
+}
+
+.grid-h {
+    padding-top: 10px;
+}
+
+.seccion-grid {
+    margin: 60px;
+}
+
+.help-div h1 {
+   padding-left: 410px;
+}
+
+.help-div p {
+    margin: 90px;
+}
+
+.help-div img {
+    width: 700px;
+    padding-left: 200px;
+}
+
+.help-div a:hover {
+    opacity: .4;
+}
+
+.contacto-gmail img {
+    width: 580px;
+    padding-left: 370px;
+    
+}
+    
+
+.contacto-gmail p {
+    padding-left: 370px;
+}
+
+
+.raross img {
+width: 700px;
+padding-left: 200px;
+padding-top: 70px;
+}
+    
+    
